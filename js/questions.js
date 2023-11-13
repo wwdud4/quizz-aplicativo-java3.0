@@ -17,7 +17,7 @@ let questions = [
     answer: "24 horas",
     options: [
       "365 dias",
-      "24 horas.",
+      "24 horas",
       "7 dias",
       "12 horas"
     ]
@@ -47,12 +47,12 @@ let questions = [
   {
     numb: 5,
     question: "Qual o maior planeta do sistema solar?",
-    answer: "Júpiter.",
+    answer: "Júpiter",
     options: [
       "Saturno",
       "Vênus",
       "Marte",
-      "júpter"
+      "jupter"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
