@@ -3,25 +3,24 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "Quem é o resonsável pela obra de arte Mona Lisa?",
+answer: "Leonardo da vinci",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"picasso",
+"Michelangelo",
+"Rafael",
+"Leonardo da Vinci"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "qual é o maior país do mundo?",
+answer: "Vaticano",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"China",
+"Vaticano",
+"Portugal",
+"Inglaterra"
 ]
 },
 {
