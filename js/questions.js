@@ -52,7 +52,7 @@ let questions = [
       "Saturno",
       "Vênus",
       "Marte",
-      "jupter"
+      "júpiter"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
