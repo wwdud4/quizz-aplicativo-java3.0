@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Qual a montanha mais alta do mundo?",
+    answer: "Monte Everest",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Monte Everest",
+      "Monte Chimborazo",
+      "Mauna Kea",
+      "Pico da Neblina"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Quanto tempo a Terra demora para dar uma volta completa em torno dela mesma?",
+    answer: "24 horas",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "365 dias",
+      "24 horas.",
+      "7 dias",
+      "12 horas"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: " Quantos ossos temos no nosso corpo?",
+    answer: "206",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "300",
+      "120",
+      "206",
+      "100"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Qual a maior floresta tropical do mundo?",
+    answer: "floresta amazonica",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "floresta amazonica",
+      "mata atlantica",
+      "caatinga",
+      "pantanal"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual o maior planeta do sistema solar?",
+    answer: "Júpiter.",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Saturno",
+      "Vênus",
+      "Marte",
+      "júpter"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
